@@ -6,11 +6,6 @@ Test your knowledge across multiple categories with a timer-based challenge syst
 
 ---
 
-## 🚀 Live Demo
-(You can add GitHub Pages link here later)
-
----
-
 ## 📌 Features
 
 ✨ Multiple Categories  
@@ -37,6 +32,7 @@ Test your knowledge across multiple categories with a timer-based challenge syst
 ---
 
 ## 📂 Project Structure
+```
 Quiz-Game/
 │
 ├── index.html
@@ -47,3 +43,4 @@ Quiz-Game/
 ├── geography.png
 ├── entertainment.png
 └── README.md
+```
